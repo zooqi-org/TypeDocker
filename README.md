@@ -11,4 +11,5 @@ Start up Typecho with Docker !
 2、Modify the `docker-compose.yml` file, change your mysql environment configuration.
 
 3、Execute the following commands.
+    
     # chmod +x run.sh && ./run.sh
